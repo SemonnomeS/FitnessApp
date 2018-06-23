@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="_20">20</string>
+    <string name="title_activity_map">Map</string>
+</resources>
